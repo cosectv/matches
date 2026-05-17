@@ -1,1 +1,34 @@
-
+[
+  {
+    "match_id": 1,
+    "league_name": "UEFA Champions League",
+    "category": "Football",
+    "team_1": {
+      "name": "Real Madrid CF",
+      "image_url": "https://example.com/images/real-madrid.png"
+    },
+    "team_2": {
+      "name": "Manchester City FC",
+      "image_url": "https://example.com/images/man-city.png"
+    },
+    "start_date_time": "2026-10-24T19:45:00Z",
+    "finish_date_time": "2026-10-24T21:45:00Z",
+    "iframe_url": "https://example.com/embed/match-1"
+  },
+  {
+    "match_id": 2,
+    "league_name": "Indian Premier League",
+    "category": "Cricket",
+    "team_1": {
+      "name": "Mumbai Indians",
+      "image_url": "https://example.com/images/mumbai-indians.png"
+    },
+    "team_2": {
+      "name": "Chennai Super Kings",
+      "image_url": "https://example.com/images/chennai-super-kings.png"
+    },
+    "start_date_time": "2026-11-02T14:00:00Z",
+    "finish_date_time": "2026-11-02T17:30:00Z",
+    "iframe_url": "https://example.com/embed/match-2"
+  }
+]
