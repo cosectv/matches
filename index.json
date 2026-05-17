@@ -20,12 +20,12 @@
     "league_name": "Indian Premier League",
     "category": "Cricket",
     "team_1": {
-      "name": "Mumbai Indians",
-      "image_url": "https://example.com/images/mumbai-indians.png"
+      "name": "Delhi Capitals",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Delhi_Capitals.svg/1280px-Delhi_Capitals.svg.png"
     },
     "team_2": {
-      "name": "Chennai Super Kings",
-      "image_url": "https://example.com/images/chennai-super-kings.png"
+      "name": "Rajisthan Royals",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg"
     },
     "start_date_time": "2026-11-02T14:00:00Z",
     "finish_date_time": "2026-11-02T17:30:00Z",
